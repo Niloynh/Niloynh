@@ -57,7 +57,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloynh&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloynh&show_icons=true&theme=radical)
 
 # 🚀 Some Projects
 
