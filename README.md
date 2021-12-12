@@ -4,13 +4,12 @@
 ![Github Cover](react-banner.jpg)
 ### Here are some ideas about me
 
-- 🙅🏻‍♂️ I'm currently Learning **React Js** 🥰
+- 🙅🏻‍♂️ I'm currently Learning **React Js** 🥰                 
 - 👨🏻‍💻 Most used line of code `console.log()`
 - 👀 I’m interested in Deep Learning
 - 🎯 2021 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I love to play games
 - 📫 My Portfolio: [Niloy Hakim](https://clever-shaw-613dc4.netlify.app/)
-
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Niloynh.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
@@ -56,8 +55,9 @@
 [![Gatsby Badge](https://img.shields.io/badge/Gatsby-0078D6?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/Niloynh)
 
 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloynh&show_icons=true&theme=radical) -->
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloynh)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloynh&show_icons=true&theme=radical)
 
 # 🚀 Some Projects
 
