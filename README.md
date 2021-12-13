@@ -182,6 +182,15 @@
 
 ## 😀 Vanilla Javascript Projects
 <details>
+<summary>Scroll Webiste</summary>
+
+1. Live Demo: https://niloynh.github.io/html-css-javascript-website/index.html
+2. Github Code: https://github.com/Niloynh/html-css-javascript-website
+3. Technology : Html, Css, Vaniila JS
+![Screenshot_24](https://user-images.githubusercontent.com/86623303/145827166-facbeeb9-5c4a-4bf6-842e-dfae91cb1812.png)
+
+</details>
+<details>
 <summary>JS Dude Salary App</summary>
 
 1. Live Demo: https://distracted-noyce-f8c6a8.netlify.app/
