@@ -93,6 +93,15 @@
 
 
 <details>
+<summary>Amazon Clone</summary>
+  
+1. Live Demo : https://thirsty-brattain-6461d0.netlify.app/
+2. Github Code: https://github.com/Niloynh/amazon-clone
+3. Technology : React-Router-dom, React.js, Firebase...
+![Screenshot_39](https://user-images.githubusercontent.com/86623303/146936688-c4bd2fbe-60ec-4178-a94e-dbc2bea33683.png)
+
+</details>
+<details>
 <summary>Cafe Menu Web</summary>
   
 1. Live Demo : https://gifted-lewin-873f8f.netlify.app/
