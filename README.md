@@ -7,7 +7,7 @@ I help Real Estate Agents and businesses replace manual grunt work with intellig
 - 🔭 I’m currently building: **AI Lead Capture Systems for Real Estate**
 - ⚡ Tech Stack: **Next.js, TypeScript, n8n, OpenAI, Supabase**
 - 🤝 I’m looking to collaborate on: **SaaS & Automation Projects**
-- 📫 Contact: [niloyhakim09@gmail.com](mailto:niloyhakim.ai@gmail.com)
+- 📫 Contact: [niloyhakim.ai@gmail.com](mailto:niloyhakim.ai@gmail.com)
 
 ---
 
