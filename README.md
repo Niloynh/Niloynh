@@ -7,7 +7,7 @@ I help Real Estate Agents and businesses replace manual grunt work with intellig
 - 🔭 I’m currently building: **AI Lead Capture Systems for Real Estate**
 - ⚡ Tech Stack: **Next.js, TypeScript, n8n, OpenAI, Supabase**
 - 🤝 I’m looking to collaborate on: **SaaS & Automation Projects**
-- 📫 Contact: [niloyhakim09@gmail.com](mailto:niloyhakim09@gmail.com)
+- 📫 Contact: [niloyhakim09@gmail.com](mailto:niloyhakim.ai@gmail.com)
 
 ---
 
@@ -77,11 +77,11 @@ A robust e-commerce application handling inventory and user authentication.
 ## 🤠 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/niloyhakim/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="niloyhakim" /></a>
-<a href="https://twitter.com/NiloyHakim_" target="blank"><img align="center" src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="niloyhakim" /></a>
+<a href="https://www.linkedin.com/in/niloyhakimai/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="niloyhakim" /></a>
+<a href="https://twitter.com/NiloyHakimai" target="blank"><img align="center" src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="niloyhakim" /></a>
 <a href="https://github.com/Niloynh" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="niloyhakim" /></a>
-<a href="mailto:niloyhakim09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="niloyhakim" /></a>
-<a href="https://web.facebook.com/niloynhkr" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="niloyhakim" /></a>
+<a href="mailto:niloyhakim.ai@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="niloyhakim" /></a>
+<a href="https://web.facebook.com/NiloyHakimai" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="niloyhakim" /></a>
 </p>
 
 ---
