@@ -40,38 +40,6 @@ I help Real Estate Agents and businesses replace manual grunt work with intellig
 **Current Focus:** Building automated workflows using n8n and LLMs to handle lead qualification, email outreach, and database reactivation for Real Estate professionals.
 *(Code repositories coming soon as I build in public)*
 
-### 💻 Full Stack Development (Selected Works)
-
-<details>
-<summary><b>🛍️ Niche - Full Stack Website</b></summary>
-<br>
-A complete niche product website with admin dashboard and order management.
-<br><br>
-🔹 <b>Tech:</b> React.js, Node.js, Express, MongoDB, Firebase<br>
-🔹 <b>Live:</b> <a href="https://final-assignment-d018c.web.app/">View Live</a><br>
-🔹 <b>Code:</b> <a href="https://github.com/Niloynh/niche-client-code">GitHub Repo</a>
-</details>
-
-<details>
-<summary><b>🛒 Amazon Clone - E-commerce UI</b></summary>
-<br>
-A fully functional clone of the Amazon frontend with cart functionality.
-<br><br>
-🔹 <b>Tech:</b> React.js, Context API, Firebase<br>
-🔹 <b>Live:</b> <a href="https://thirsty-brattain-6461d0.netlify.app/">View Live</a><br>
-🔹 <b>Code:</b> <a href="https://github.com/Niloynh/amazon-clone">GitHub Repo</a>
-</details>
-
-<details>
-<summary><b>📦 Ema-John - E-commerce Platform</b></summary>
-<br>
-A robust e-commerce application handling inventory and user authentication.
-<br><br>
-🔹 <b>Tech:</b> MERN Stack (MongoDB, Express, React, Node)<br>
-🔹 <b>Live:</b> <a href="https://simple-react-authenticat-ecd2c.web.app/">View Live</a><br>
-🔹 <b>Code:</b> <a href="https://github.com/Niloynh/Ema-John-Client-code">GitHub Repo</a>
-</details>
-
 ---
 
 ## 🤠 Connect with me
