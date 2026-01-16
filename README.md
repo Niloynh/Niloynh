@@ -54,4 +54,4 @@ I help Real Estate Agents and businesses replace manual grunt work with intellig
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloynh&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niloynh&show_icons=true&theme=vision-friendly-dark)
